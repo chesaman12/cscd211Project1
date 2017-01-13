@@ -1,0 +1,5 @@
+Your BLT sandwich contains Bacon, Lettuce, and Tomato and is 150 calories
+Your Turkey on White sandwich contains and Turkey and is 150 calories
+Your Turkey on White sandwich contains Turkey, and Cheddar Cheese and is 300 calories
+Your Ham on Rye sandwich contains and Ham and is 350 calories
+Your Reuben sandwich contains Corned Beef, Swiss Cheese, Sauerkraut, and Russian Dressing and is 850 calories

@@ -1,0 +1,27 @@
+5
+Turkey on White
+300
+2
+Turkey
+Cheddar Cheese
+Ham on Rye
+350
+1
+Ham
+BLT
+150
+3
+Bacon
+Lettuce
+Tomato
+Turkey on White
+150
+1
+Turkey
+Reuben
+850
+4
+Corned Beef
+Swiss Cheese
+Sauerkraut
+Russian Dressing

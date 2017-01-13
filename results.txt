@@ -1,0 +1,69 @@
+Please enter the name of the input file input.txt
+1) Print the array to the screen
+2) Sort the array based on the natural order
+3) Sort the array by imposing a total order
+4) Print the array to a file that is specified by the user
+5) Quit the program
+Choice --> 1
+
+Your Turkey on White sandwich contains Turkey, and Cheddar Cheese and is 300 calories
+Your Ham on Rye sandwich contains and Ham and is 350 calories
+Your BLT sandwich contains Bacon, Lettuce, and Tomato and is 150 calories
+Your Turkey on White sandwich contains and Turkey and is 150 calories
+Your Reuben sandwich contains Corned Beef, Swiss Cheese, Sauerkraut, and Russian Dressing and is 850 calories
+
+1) Print the array to the screen
+2) Sort the array based on the natural order
+3) Sort the array by imposing a total order
+4) Print the array to a file that is specified by the user
+5) Quit the program
+Choice --> 2
+
+1) Print the array to the screen
+2) Sort the array based on the natural order
+3) Sort the array by imposing a total order
+4) Print the array to a file that is specified by the user
+5) Quit the program
+Choice --> 1
+
+Your BLT sandwich contains Bacon, Lettuce, and Tomato and is 150 calories
+Your Ham on Rye sandwich contains and Ham and is 350 calories
+Your Reuben sandwich contains Corned Beef, Swiss Cheese, Sauerkraut, and Russian Dressing and is 850 calories
+Your Turkey on White sandwich contains and Turkey and is 150 calories
+Your Turkey on White sandwich contains Turkey, and Cheddar Cheese and is 300 calories
+
+1) Print the array to the screen
+2) Sort the array based on the natural order
+3) Sort the array by imposing a total order
+4) Print the array to a file that is specified by the user
+5) Quit the program
+Choice --> 3
+
+1) Print the array to the screen
+2) Sort the array based on the natural order
+3) Sort the array by imposing a total order
+4) Print the array to a file that is specified by the user
+5) Quit the program
+Choice --> 1
+
+Your BLT sandwich contains Bacon, Lettuce, and Tomato and is 150 calories
+Your Turkey on White sandwich contains and Turkey and is 150 calories
+Your Turkey on White sandwich contains Turkey, and Cheddar Cheese and is 300 calories
+Your Ham on Rye sandwich contains and Ham and is 350 calories
+Your Reuben sandwich contains Corned Beef, Swiss Cheese, Sauerkraut, and Russian Dressing and is 850 calories
+
+1) Print the array to the screen
+2) Sort the array based on the natural order
+3) Sort the array by imposing a total order
+4) Print the array to a file that is specified by the user
+5) Quit the program
+Choice --> 4
+Please enter the name of the output file out.txt
+
+1) Print the array to the screen
+2) Sort the array based on the natural order
+3) Sort the array by imposing a total order
+4) Print the array to a file that is specified by the user
+5) Quit the program
+Choice --> 5
+
